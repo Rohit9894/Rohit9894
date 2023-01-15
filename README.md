@@ -3,11 +3,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
--🔭 I’m currently working on MySkill😄
+- 🔭 I’m currently working on MySkill😄
 
 - 👨‍💻 All of my projects are available at [https://rohit9894.github.io/](https://rohit9894.github.io/)
 
--💬 Ask me about MERN
+- 💬 Ask me about MERN
 
 - 📫 How to reach me **princerohit9893@gmail.com**
 
