@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/7119ee00255a20b06b30dd1d73451de38718454352530c3fabb428aa13440065/68747470733a2f2f7777772e397365726965732e636f6d2f696d672f73657276696365732f66756c6c2d737461636b2f6265737425323046756c6c253230537461636b253230646576656c6f706d656e74253230636f6d70616e79253230696e253230496e6469612e6a7067" alt="Hello"/>
+![MERN-Stack-Development-and-Consulting-Services](https://user-images.githubusercontent.com/101738635/231880752-21b3cb26-969a-4427-99ba-6c6b9dc98044.jpg)
 <h1 align="center">Hi 👋, I'm Rohit Gupta </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
